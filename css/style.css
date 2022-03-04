@@ -21,7 +21,7 @@
 }
 
 .l-blue {
-    background-color: lightskyblue;
+    background-color: #abcfe7;
 }
 
 .column {
@@ -31,7 +31,7 @@
 /* HEADER */
 
 .header-r {
-    background-color: fuchsia;
+    background-color: #e579e6;
     width: 100%;
     height: 80px;
     margin-bottom: 20px;
@@ -42,15 +42,19 @@
 /* BANNER */
 
 .banner {
-    background-color: wheat;
+    background-color: #e1d67a;
     width: 100%;
     height: 200px;
     margin-bottom: 20px;
 }
 
+/* CLEARFIX */
+
 .clearfix {
-    background-color: dodgerblue;
+    background-color: #0087ff;
 }
+
+/* COLUMN */
 
 .title {
     height: 40px;
@@ -69,4 +73,13 @@
     width: calc(60% - 30px);
     float: left;
     margin: 0 15px;
+}
+
+/* FOOTER */
+
+.footer-v {
+    background-color: rgb(136, 1, 254);
+    height: 30px;
+    width: 100%;
+    margin-top: 10px;
 }
